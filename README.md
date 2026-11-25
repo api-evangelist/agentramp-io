@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentramp Io Authentication](https://apis.io/security/agentramp-io/agentramp-io-authentication/)
-- [Agentramp Io Domain Security](https://apis.io/security/agentramp-io/agentramp-io-domain-security/)
+- [agentramp-io Authentication](https://apis.io/security/agentramp-io/agentramp-io-authentication/)
+- [agentramp-io Domain Security](https://apis.io/security/agentramp-io/agentramp-io-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentramp Io Scopes](https://apis.io/scopes/agentramp-io/agentramp-io-scopes/)
+- [agentramp-io Scopes](https://apis.io/scopes/agentramp-io/agentramp-io-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentramp Io Plans Pricing](https://apis.io/plans/agentramp-io/agentramp-io-plans-pricing/)
+- [agentramp-io Plans Pricing](https://apis.io/plans/agentramp-io/agentramp-io-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentramp Io Rate Limits](https://apis.io/rate-limits/agentramp-io/agentramp-io-rate-limits/)
+- [agentramp-io Rate Limits](https://apis.io/rate-limits/agentramp-io/agentramp-io-rate-limits/)
 
 ## Where to find this API
 
@@ -118,25 +118,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 30.1** — thin · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 29.7** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 73.2 |
+| Access clarity | 72.3 |
 
-**Agent readiness 8.1** — agent-aware
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -145,7 +145,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | — |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -154,8 +154,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentramp-io/](https://apis.io/providers/agentramp-io/).
 
